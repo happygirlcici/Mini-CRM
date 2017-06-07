@@ -1,0 +1,52 @@
+
+
+mini CRM developer 
+
+modelRepList
+
+lstReps.setModel(modelRepList);
+
+lstCust
+listModelCustomer
+
+listModelCustomer
+
+dlgAddCust_tfNameFirst
+dlgAddCust_tfNameLast
+dlgtfCustAddress
+dlgtfPostCode
+
+dlgAddCust_tfPhone
+
+dlgAddCust_btCancel
+dlgAddCust_btAdd
+
+btAddCus
+btManage
+
+dlgInteraction_jList->listModelInteraction
+
+insert into customer values (1,'Eva','Gaga','Address','Zip Code','23456734','SIN 345')
+insert into customer values (2,'Louis','Saint','Mainland USA','Zip 4252','23456734','SIN 231')
+
+
+
+dlglblRepName
+
+dlglblCustName
+
+dlgInteraction_jList
+
+
+getInteractionByRepID
+
+dlglblRepNameDetail
+dlglblInteraDate
+dlglblInteraNotes
+dlglblInteraNotesNew
+
+dlgbtAddNewNotes
+
+
+select * from Interaction;
+insert into interaction values(1,1,1,'2017-01-01','In seattle, good');
